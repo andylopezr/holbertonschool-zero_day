@@ -1,0 +1,1 @@
+**This folder contains files with different commands useful inside the Emacs editor.**
