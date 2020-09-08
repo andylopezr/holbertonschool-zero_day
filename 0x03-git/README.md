@@ -1,0 +1,1 @@
+**This directory contains activities intended for learning git commands and uses.**
